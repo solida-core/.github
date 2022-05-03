@@ -1,7 +1,23 @@
-![](https://komarev.com/ghpvc/?username=solida-core&style=plastic)
-### Hi there, this is solida-core 👋
+![](https://komarev.com/ghpvc/?username=solida-core&style=plastic&color=green) 
+<!-- # possiamo aggiungere il colore crs4 -->
 
-This is a collection of open-source Snakemake-based pipelines developed at CRS4 ([Center for Advanced Studies, Research and Development in Sardinia](https://www.crs4.it)) in the Next Generation Sequencing Core Program.
+### Hi there, this is the solida-core project official repository! 👋
+
+We are [Rossano](https://www.crs4.it/peopledetails/357/rossano-atzeni/) and [Matteo](https://www.crs4.it/peopledetails/456/matteo-massidda/), bioinformaticians at CRS4 ([Center for Advanced Studies, Research and Development in Sardinia](https://www.crs4.it)) in the Next Generation Sequencing Core Program.
+
+During these years we have worked on the development of reproducibile workflows for NGS Data Analysis.
+
+Our pipelines, based on public tools, follow GATK Best Practices and include steps that we found useful during the analysis of samples processed in our facility.
+
+**solida-core** is a collection of open-source Snakemake-based pipelines.
+We are working to increase the number of our pipelines and, of course, to mantain up-to-date the old ones.
+
+If you found one of our workflows useful for your project, please remember to cite us including `https://github.com/solida-core` to your references.
+
+
+Thank you,
+
+Rossano and Matteo
 
 
 
