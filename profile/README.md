@@ -3,7 +3,7 @@
 
 ### Hi there, this is the solida-core project official repository! 👋
 
-We are [Rossano](https://www.crs4.it/peopledetails/357/rossano-atzeni/) and [Matteo](https://www.crs4.it/peopledetails/456/matteo-massidda/), bioinformaticians at CRS4 ([Center for Advanced Studies, Research and Development in Sardinia](https://www.crs4.it)) in the Next Generation Sequencing Core Program.
+We are [Rossano](https://www.crs4.it/peopledetails/357/rossano-atzeni/) and [Matteo](https://github.com/massiddamt), bioinformaticians respectively at [CRS4](https://www.crs4.it) and the [University of Sassari](https://www.uniss.it/ugov/person/145801).
 
 During these years we have worked on the development of reproducibile workflows for NGS Data Analysis.
 
